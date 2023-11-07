@@ -5,5 +5,5 @@ lang: en
 
 It's great!
 
-[paper](papers/FlashAttention.md)
+[paper](papers/flash-attention.md)
 [github](https://github.com/Dao-AILab/flash-attention#flashattention)
