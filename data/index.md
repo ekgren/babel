@@ -14,7 +14,9 @@ The storage structure for the data is to be decided. As well as the document for
 Finally the concept of personal and general is not fully set either. But in principle there will be a highly personal part of the library for my own musings and a more general part that strives to be more impartial.  
 
 ## Index
+- [artificial intelligence](ai/index.md)
 - [media](media/index.md)
+- [pages](pages/index.md)
 - [papers](papers/index.md)
 - [personal](personal/index.md)
 - [formatting](formatting.md)
