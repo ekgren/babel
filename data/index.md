@@ -15,5 +15,6 @@ Finally the concept of personal and general is not fully set either. But in prin
 
 - [papers](papers/index.md)
 - [personal](personal/index.md)
-- [formating](formating.md)
+- [formatting](formatting.md)
+- [naming scheme](naming-scheme.md)
 

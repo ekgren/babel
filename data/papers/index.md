@@ -3,4 +3,4 @@ lang: en
 ---
 # Papers
 
-Here we store papers.
+In the papers folder we store podcasts
