@@ -3,5 +3,6 @@ lang: en
 ---
 # Artificial Intelligence
 
-[LLM training](llm-architectures.md)
+## Index
+- [LLM architectures](ai/llm-architectures.md)
 
