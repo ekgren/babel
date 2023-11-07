@@ -5,5 +5,5 @@ lang: en
 
 
 ## Index
-- [Instruct datasets](instruct-datasets.md)
+- [Instruct datasets](ai/datasets/instruct-datasets.md)
 
